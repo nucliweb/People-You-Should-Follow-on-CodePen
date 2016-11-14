@@ -1,2 +1,28 @@
-# People-You-Should-Follow-in-Codepen
-People You Should Follow in Codepen
+# People You Should Follow in Codepen
+> If you like SVG, Animation, Canvas, Interaction, WebGL and Creative Code
+
+- [Ana Tudor](https://codepen.io/thebabydino/)
+- [Blake Bowen](http://codepen.io/osublake/)
+- [Chris Coyier](https://codepen.io/chriscoyier/)
+- [Chris Gannon](https://codepen.io/chrisgannon/)
+- [CJ Gammon](https://codepen.io/cjgammon/)
+- [Diaco ML](https://codepen.io/MAW/)
+- [Dudley Storey](https://codepen.io/dudleystorey/)
+- [Gabi](https://codepen.io/enxaneta/)
+- [GreenSock](https://codepen.io/GreenSock/)
+- [Gregor Adams](https://codepen.io/pixelass/)
+- [Petr Tichy](https://codepen.io/ihatetomatoes/)
+- [Jack Rugile](https://codepen.io/jackrugile/)
+- [Jake Albaugh](https://codepen.io/jakealbaugh/)
+- [Joni Trythall](http://codepen.io/jonitrythall/)
+- [Justin Windle](http://codepen.io/soulwire/)
+- [Karim Maaloul](https://codepen.io/Yakudoo/)
+- [LegoMushroom](http://codepen.io/sol0mka/)
+- [Louis Hoebregts](https://codepen.io/Mamboleoo/)
+- [Lucas Bebber](http://codepen.io/lbebber/)
+- [Rachel Nabors](https://codepen.io/rachelnabors/)
+- [Rachel Smith](https://codepen.io/rachsmith/)
+- [Sara Soueidan](http://codepen.io/SaraSoueidan/)
+- [Sarah Drasner](http://codepen.io/sdras/)
+- [Tiffany Rayside](http://codepen.io/tmrDevelops/)
+- [Val Head](https://codepen.io/valhead/)
