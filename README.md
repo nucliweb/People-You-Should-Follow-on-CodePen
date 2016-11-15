@@ -18,6 +18,7 @@
 - [Justin Windle](http://codepen.io/soulwire/)
 - [Karim Maaloul](https://codepen.io/Yakudoo/)
 - [LegoMushroom](http://codepen.io/sol0mka/)
+- [Liam Brummitt](http://codepen.io/liabru/)
 - [Louis Hoebregts](https://codepen.io/Mamboleoo/)
 - [Lucas Bebber](http://codepen.io/lbebber/)
 - [Rachel Nabors](https://codepen.io/rachelnabors/)
