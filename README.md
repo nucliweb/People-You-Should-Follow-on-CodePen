@@ -2,6 +2,7 @@
 > If you like SVG, Animation, Canvas, Interaction, WebGL and Creative Code
 
 - [Ana Tudor](https://codepen.io/thebabydino/)
+- [Anthony Dugois](http://codepen.io/anthonydugois/)
 - [Blake Bowen](http://codepen.io/osublake/)
 - [Chris Coyier](https://codepen.io/chriscoyier/)
 - [Chris Gannon](https://codepen.io/chrisgannon/)
