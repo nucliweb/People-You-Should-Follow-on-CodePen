@@ -29,3 +29,4 @@
 - [Sarah Drasner](http://codepen.io/sdras/)
 - [Tiffany Rayside](http://codepen.io/tmrDevelops/)
 - [Val Head](https://codepen.io/valhead/)
+- [Zach Saucier](http://codepen.io/Zeaklous/)
