@@ -1,4 +1,4 @@
-# People You Should Follow in Codepen
+# People You Should Follow on CodePen
 > If you like SVG, Animation, Canvas, Interaction, WebGL and Creative Code
 
 - [Ana Tudor](https://codepen.io/thebabydino/)
