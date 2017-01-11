@@ -13,6 +13,7 @@
 - [Gabi](https://codepen.io/enxaneta/)
 - [GreenSock](https://codepen.io/GreenSock/)
 - [Gregor Adams](https://codepen.io/pixelass/)
+- [Hernan Torrisi](http://codepen.io/airnan/)
 - [Petr Tichy](https://codepen.io/ihatetomatoes/)
 - [Jack Rugile](https://codepen.io/jackrugile/)
 - [Jake Albaugh](https://codepen.io/jakealbaugh/)
