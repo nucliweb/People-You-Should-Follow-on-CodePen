@@ -1,5 +1,5 @@
 # People You Should Follow on CodePen
-> If you like SVG, Animation, Canvas, Interaction, WebGL and Creative Code
+> If you like SVG, Animation, Canvas, Interaction, WebGL, P5js and Creative Code
 
 - [Ana Tudor](https://codepen.io/thebabydino/)
 - [Anthony Dugois](http://codepen.io/anthonydugois/)
@@ -17,6 +17,7 @@
 - [Petr Tichy](https://codepen.io/ihatetomatoes/)
 - [Jack Rugile](https://codepen.io/jackrugile/)
 - [Jake Albaugh](https://codepen.io/jakealbaugh/)
+- [Johan Karlsson](http://codepen.io/DonKarlssonSan/)
 - [Joni Trythall](http://codepen.io/jonitrythall/)
 - [Justin Windle](http://codepen.io/soulwire/)
 - [Karim Maaloul](https://codepen.io/Yakudoo/)
