@@ -1,6 +1,7 @@
 # People You Should Follow on CodePen
 > If you like SVG, Animation, Canvas, Interaction, WebGL, P5js and Creative Code
 
+- [Amelia Bellamy-Royds](https://codepen.io/AmeliaBR/)
 - [Ana Tudor](https://codepen.io/thebabydino/)
 - [Anthony Dugois](http://codepen.io/anthonydugois/)
 - [Blake Bowen](http://codepen.io/osublake/)
