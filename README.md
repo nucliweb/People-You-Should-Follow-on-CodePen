@@ -26,6 +26,7 @@
 - [Liam Brummitt](http://codepen.io/liabru/)
 - [Louis Hoebregts](https://codepen.io/Mamboleoo/)
 - [Lucas Bebber](http://codepen.io/lbebber/)
+- [Michael Gehrmann](http://codepen.io/g12n/)
 - [Rachel Nabors](https://codepen.io/rachelnabors/)
 - [Rachel Smith](https://codepen.io/rachsmith/)
 - [Sara Soueidan](http://codepen.io/SaraSoueidan/)
