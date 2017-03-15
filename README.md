@@ -22,6 +22,7 @@
 - [Joni Trythall](http://codepen.io/jonitrythall/)
 - [Justin Windle](http://codepen.io/soulwire/)
 - [Karim Maaloul](https://codepen.io/Yakudoo/)
+- [Kenji Saito](http://codepen.io/kenjiSpecial/)
 - [LegoMushroom](http://codepen.io/sol0mka/)
 - [Liam Brummitt](http://codepen.io/liabru/)
 - [Louis Hoebregts](https://codepen.io/Mamboleoo/)
