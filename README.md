@@ -20,6 +20,7 @@
 - [Jake Albaugh](https://codepen.io/jakealbaugh/)
 - [Johan Karlsson](http://codepen.io/DonKarlssonSan/)
 - [Joni Trythall](http://codepen.io/jonitrythall/)
+- [Julian Garnier](https://codepen.io/juliangarnier/)
 - [Justin Windle](http://codepen.io/soulwire/)
 - [Karim Maaloul](https://codepen.io/Yakudoo/)
 - [Kenji Saito](http://codepen.io/kenjiSpecial/)
