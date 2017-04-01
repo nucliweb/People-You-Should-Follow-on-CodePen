@@ -13,6 +13,7 @@
 - [Dudley Storey](https://codepen.io/dudleystorey/)
 - [Gabi](https://codepen.io/enxaneta/)
 - [GreenSock](https://codepen.io/GreenSock/)
+- [Greg Hovanesyan](https://codepen.io/gregh/)
 - [Gregor Adams](https://codepen.io/pixelass/)
 - [Hernan Torrisi](http://codepen.io/airnan/)
 - [Petr Tichy](https://codepen.io/ihatetomatoes/)
