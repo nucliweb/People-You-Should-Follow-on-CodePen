@@ -7,6 +7,7 @@
 - [Blake Bowen](http://codepen.io/osublake/)
 - [Chris Coyier](https://codepen.io/chriscoyier/)
 - [Chris Gannon](https://codepen.io/chrisgannon/)
+- [Chris Johnson](https://codepen.io/jhnsnc/)
 - [CJ Gammon](https://codepen.io/cjgammon/)
 - [Diaco ML](https://codepen.io/MAW/)
 - [Drew Dahlman](https://codepen.io/DrewDahlman/)
