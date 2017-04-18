@@ -19,6 +19,7 @@
 - [Hernan Torrisi](http://codepen.io/airnan/)
 - [Petr Tichy](https://codepen.io/ihatetomatoes/)
 - [Jack Rugile](https://codepen.io/jackrugile/)
+- [Jackson A. Joseph](http://codepen.io/alexandrejosephdev/)
 - [Jake Albaugh](https://codepen.io/jakealbaugh/)
 - [Johan Karlsson](http://codepen.io/DonKarlssonSan/)
 - [Joni Trythall](http://codepen.io/jonitrythall/)
