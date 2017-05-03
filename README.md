@@ -13,6 +13,7 @@
 - [Drew Dahlman](https://codepen.io/DrewDahlman/)
 - [Dudley Storey](https://codepen.io/dudleystorey/)
 - [Gabi](https://codepen.io/enxaneta/)
+- (Giana)[https://codepen.io/giana/]
 - [GreenSock](https://codepen.io/GreenSock/)
 - [Greg Hovanesyan](https://codepen.io/gregh/)
 - [Gregor Adams](https://codepen.io/pixelass/)
