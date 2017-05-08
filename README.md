@@ -26,6 +26,7 @@
 - [Joni Trythall](http://codepen.io/jonitrythall/)
 - [Julian Garnier](https://codepen.io/juliangarnier/)
 - [Justin Windle](http://codepen.io/soulwire/)
+- [K-T](http://codepen.io/K-T/)
 - [Karim Maaloul](https://codepen.io/Yakudoo/)
 - [Kenji Saito](http://codepen.io/kenjiSpecial/)
 - [LegoMushroom](http://codepen.io/sol0mka/)
