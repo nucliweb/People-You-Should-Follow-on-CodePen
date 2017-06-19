@@ -4,6 +4,7 @@
 - [Amelia Bellamy-Royds](https://codepen.io/AmeliaBR/)
 - [Ana Tudor](https://codepen.io/thebabydino/)
 - [Anthony Dugois](http://codepen.io/anthonydugois/)
+- [Bali Balo](https://codepen.io/bali_balo/)
 - [Blake Bowen](http://codepen.io/osublake/)
 - [Chris Coyier](https://codepen.io/chriscoyier/)
 - [Chris Gannon](https://codepen.io/chrisgannon/)
