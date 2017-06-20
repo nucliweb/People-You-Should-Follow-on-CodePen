@@ -10,6 +10,7 @@
 - [Chris Gannon](https://codepen.io/chrisgannon/)
 - [Chris Johnson](https://codepen.io/jhnsnc/)
 - [CJ Gammon](https://codepen.io/cjgammon/)
+- [David DeSandro](https://codepen.io/desandro/)
 - [Diaco ML](https://codepen.io/MAW/)
 - [Drew Dahlman](https://codepen.io/DrewDahlman/)
 - [Dudley Storey](https://codepen.io/dudleystorey/)
