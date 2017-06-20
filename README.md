@@ -41,6 +41,7 @@
 - [Rachel Smith](https://codepen.io/rachsmith/)
 - [Sara Soueidan](http://codepen.io/SaraSoueidan/)
 - [Sarah Drasner](http://codepen.io/sdras/)
+- [Sullivan Nolan](https://codepen.io/nolakat/)
 - [Thibaut](http://codepen.io/Thibka/)
 - [Tiffany Rayside](http://codepen.io/tmrDevelops/)
 - [Val Head](https://codepen.io/valhead/)
