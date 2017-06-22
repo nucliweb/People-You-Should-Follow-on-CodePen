@@ -46,5 +46,6 @@
 - [Thibaut](http://codepen.io/Thibka/)
 - [Tiffany Rayside](http://codepen.io/tmrDevelops/)
 - [Val Head](https://codepen.io/valhead/)
+- [Yuán Chuān](https://codepen.io/yuanchuan/)
 - [Yugam Dhuriya](https://codepen.io/pizza3/)
 - [Zach Saucier](http://codepen.io/Zeaklous/)
