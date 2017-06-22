@@ -40,6 +40,7 @@
 - [Not Important](https://codepen.io/clindsey/)
 - [Rachel Nabors](https://codepen.io/rachelnabors/)
 - [Rachel Smith](https://codepen.io/rachsmith/)
+- [Sasha Tran](https://codepen.io/sashatran/)
 - [Sara Soueidan](http://codepen.io/SaraSoueidan/)
 - [Sarah Drasner](http://codepen.io/sdras/)
 - [Sullivan Nolan](https://codepen.io/nolakat/)
