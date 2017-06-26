@@ -1,6 +1,8 @@
 # People You Should Follow on CodePen
 > If you like SVG, Animation, Canvas, Interaction, WebGL, Three.js, Shader, GLSL, P5.js and Creative Code
 
+## Demo or it didn't happen
+
 | CodePen Star | Tags |
 |--------------|------|
 | [Amelia Bellamy-Royds](https://codepen.io/AmeliaBR/) | `SVG` `CSS` `Animation` |
@@ -26,7 +28,7 @@
 | [Jack Rugile](https://codepen.io/jackrugile/) | `Canvas` `Animation` `CSS` `Particles` `Javascript` |
 | [Jackson A. Joseph](http://codepen.io/alexandrejosephdev/) | `3D` `Three.js` `Particles` `Animation` `CreativeCode`|
 | [Jake Albaugh](https://codepen.io/jakealbaugh/) | `CSS` `Web Audio` |
-| [Johan Karlsson](http://codepen.io/DonKarlssonSan/) | `P5.js` `Fractal` `Canvas` `Animation` |
+| [Johan Karlsson](http://codepen.io/DonKarlssonSan/) | `P5.js` `Fractal` `Canvas` `Animation` `WebAudio` |
 | [Joni Trythall](http://codepen.io/jonitrythall/) | `Animation` `SVG` `Sass` |
 | [Julian Garnier](https://codepen.io/juliangarnier/) | `Animation` `SVG` `CSS` `3D` `Javascript` |
 | [Justin Windle](http://codepen.io/soulwire/) | `Animation` `Canvas` `Particles` `Physics` `Javascript` `WebGL` |
