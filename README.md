@@ -41,6 +41,7 @@
 | [Lucas Bebber](http://codepen.io/lbebber/) | `CSS` `Animation` `SVG` |
 | [Marco Dell'Anna](https://codepen.io/plasm/) | `Animation` `Particles` `GreenSock` |
 | [Michael Gehrmann](http://codepen.io/g12n/) | `CSS` `SVG` `Animation` |
+| [Nat Cooper](https://codepen.io/natacoops/) | `SVG` `Animation` `CSS` `GSAP` |
 | [Not Important](https://codepen.io/clindsey/) | `Animation` `Canvas` `Three.js` `Javascript` |
 | [Rachel Nabors](https://codepen.io/rachelnabors/) | `Animation` `CSS` `SVG` `WAAPI` |
 | [Rachel Smith](https://codepen.io/rachsmith/) | `Animation` `Canvas` `SVG` `Particles` `WebGL` |
