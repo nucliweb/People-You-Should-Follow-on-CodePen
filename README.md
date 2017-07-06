@@ -18,6 +18,7 @@
 | [Diaco ML](https://codepen.io/MAW/) | `Animation` `GSAP` `SVG` `Canvas` `Javascript` |
 | [Drew Dahlman](https://codepen.io/DrewDahlman/) | `Canvas` `P5.js` |
 | [Dudley Storey](https://codepen.io/dudleystorey/) | `SVG` `CSS` `Animation` `Javascript` |
+| [Eva Santos](https://codepen.io/SoyEva/) | `Animation` `CSS` `SVG` `Javascript` |
 | [Gabi](https://codepen.io/enxaneta/) | `Canvas` `Animation` `SVG` `CSS` `Javascript` |
 | [Giana](https://codepen.io/giana/) | `CSS` `Animation` `Sass` `Canvas` `Javascript` `Particles` |
 | [GreenSock](https://codepen.io/GreenSock/) | `GSAP` `SVG` `Animation` `GreenSock` `Javascript` |
