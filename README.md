@@ -50,7 +50,7 @@
 | [Sara Soueidan](http://codepen.io/SaraSoueidan/) | `SVG` `CSS` `Animation` |
 | [Sarah Drasner](http://codepen.io/sdras/) | `Animation` `SVG` `Javascript` `GreenSock` `GSAP` `Canvas` |
 | [Scott R McGann](https://codepen.io/cantelope/) | `Animation` `Canvas` `3D` `Particles` `Javascript` |
-| [Shaw](https://codepen.io/shshaw/) | `Animation` `CSS` `SVG` `Javascript` `Cancas` `Three.js`  |
+| [Shaw](https://codepen.io/shshaw/) | `Animation` `CSS` `SVG` `Javascript` `Canvas` `Three.js`  |
 | [Sullivan Nolan](https://codepen.io/nolakat/) | `Animation` `CSS` `SVG` `WebGL` |
 | [Thepheer](https://codepen.io/thepheer/) | `Canvas` `Particles` `3D` `WebGL` `Shader` |
 | [Thibaut](http://codepen.io/Thibka/) | `Canvas` `Particles` `Three.js` `Animation` |
