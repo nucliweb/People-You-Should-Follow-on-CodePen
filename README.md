@@ -14,6 +14,7 @@
 | [Chris Gannon](https://codepen.io/chrisgannon/) | `SVG` `Animation` `GSAP` |
 | [Chris Johnson](https://codepen.io/jhnsnc/) | `SVG` `Animation` `Shader` `WebGL` `GLSL` `Javascript`|
 | [CJ Gammon](https://codepen.io/cjgammon/) | `SVG` `Canvas` `Animation` `Three.js` |
+| [Dan Wilson](https://codepen.io/danwilson/) | `Animation` `CSS` `WAAPI` |
 | [David DeSandro](https://codepen.io/desandro/) | `Animation` `Canvas` `Game` |
 | [Diaco ML](https://codepen.io/MAW/) | `Animation` `GSAP` `SVG` `Canvas` `Javascript` |
 | [Drew Dahlman](https://codepen.io/DrewDahlman/) | `Canvas` `P5.js` |
