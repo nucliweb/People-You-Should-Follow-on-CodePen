@@ -27,7 +27,6 @@
 | [Greg Hovanesyan](https://codepen.io/gregh/) | `Javascript` `Web Audio` `Animation` `Game` `CSS` |
 | [Gregor Adams](https://codepen.io/pixelass/) | `Animation` `Fractal` `3D` `CSS` `Canvas` `SVG` |
 | [Hernan Torrisi](http://codepen.io/airnan/) | `SVG` `Animation` `Canvas` `GSAP` |
-| [Petr Tichy](https://codepen.io/ihatetomatoes/) | `CSS` `Animation` `GreenSock` `SVG` `GSAP` `Canvas` |
 | [Jack Rugile](https://codepen.io/jackrugile/) | `Canvas` `Animation` `CSS` `Particles` `Javascript` |
 | [Jackson A. Joseph](http://codepen.io/alexandrejosephdev/) | `3D` `Three.js` `Particles` `Animation` `CreativeCode`|
 | [Jake Albaugh](https://codepen.io/jakealbaugh/) | `CSS` `Web Audio` |
@@ -46,7 +45,8 @@
 | [Michael Gehrmann](http://codepen.io/g12n/) | `CSS` `SVG` `Animation` |
 | [Nat Cooper](https://codepen.io/natacoops/) | `SVG` `Animation` `CSS` `GSAP` |
 | [Not Important](https://codepen.io/clindsey/) | `Animation` `Canvas` `Three.js` `Javascript` |
-| [Peter Barr](https://codepen.io/petebarr/) | `Animation` `SVG` `GSAP` `CSS`|
+| [Peter Barr](https://codepen.io/petebarr/) | `Animation` `SVG` `GSAP` `CSS` `GreenSock`|
+| [Petr Tichy](https://codepen.io/ihatetomatoes/) | `CSS` `Animation` `GreenSock` `SVG` `GSAP` `Canvas` |
 | [Rachel Nabors](https://codepen.io/rachelnabors/) | `Animation` `CSS` `SVG` `WAAPI` |
 | [Rachel Smith](https://codepen.io/rachsmith/) | `Animation` `Canvas` `SVG` `Particles` `WebGL` |
 | [Sasha Tran](https://codepen.io/sashatran/) | `CSS` `SVG` `Animation` |
