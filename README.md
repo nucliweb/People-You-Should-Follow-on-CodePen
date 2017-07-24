@@ -46,6 +46,7 @@
 | [Michael Gehrmann](http://codepen.io/g12n/) | `CSS` `SVG` `Animation` |
 | [Nat Cooper](https://codepen.io/natacoops/) | `SVG` `Animation` `CSS` `GSAP` |
 | [Not Important](https://codepen.io/clindsey/) | `Animation` `Canvas` `Three.js` `Javascript` |
+| [Peter Barr](https://codepen.io/petebarr/) | `Animation` `SVG` `GSAP` `CSS`|
 | [Rachel Nabors](https://codepen.io/rachelnabors/) | `Animation` `CSS` `SVG` `WAAPI` |
 | [Rachel Smith](https://codepen.io/rachsmith/) | `Animation` `Canvas` `SVG` `Particles` `WebGL` |
 | [Sasha Tran](https://codepen.io/sashatran/) | `CSS` `SVG` `Animation` |
