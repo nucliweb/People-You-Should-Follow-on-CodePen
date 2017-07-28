@@ -22,6 +22,7 @@
 | [Dudley Storey](https://codepen.io/dudleystorey/) | `SVG` `CSS` `Animation` `Javascript` |
 | [Eva Santos](https://codepen.io/SoyEva/) | `Animation` `CSS` `SVG` `Javascript` |
 | [Gabi](https://codepen.io/enxaneta/) | `Canvas` `Animation` `SVG` `CSS` `Javascript` |
+| [Gerard Ferrandez](https://codepen.io/ge1doot/) | `Canvas` `3D` `Physics` `Animation` |
 | [Giana](https://codepen.io/giana/) | `CSS` `Animation` `Sass` `Canvas` `Javascript` `Particles` |
 | [GreenSock](https://codepen.io/GreenSock/) | `GSAP` `SVG` `Animation` `GreenSock` `Javascript` |
 | [Greg Hovanesyan](https://codepen.io/gregh/) | `Javascript` `Web Audio` `Animation` `Game` `CSS` |
