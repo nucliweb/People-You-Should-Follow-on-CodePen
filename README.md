@@ -63,4 +63,5 @@
 | [Yoksel](https://codepen.io/yoksel/) | `Animation` `CSS` `SVG` |
 | [Yuán Chuān](https://codepen.io/yuanchuan/) | `SVG` `CSS` `Animation` `GreenSock` `Javascript` |
 | [Yugam Dhuriya](https://codepen.io/pizza3/) | `Animation` `CSS` `SVG` `Canvas` `P5.js` |
+| [Yusuke Nakaya](https://codepen.io/YusukeNakaya/) | `Animation` `CSS` |
 | [Zach Saucier](http://codepen.io/Zeaklous/) | `Animation` `CSS` `SVG` |
