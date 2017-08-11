@@ -20,6 +20,7 @@
 | [Diaco ML](https://codepen.io/MAW/) | `Animation` `GSAP` `SVG` `Canvas` `Javascript` |
 | [Drew Dahlman](https://codepen.io/DrewDahlman/) | `Canvas` `P5.js` |
 | [Dudley Storey](https://codepen.io/dudleystorey/) | `SVG` `CSS` `Animation` `Javascript` |
+| [Elior Tabeka](https://codepen.io/eliortabeka/) | `SASS` `Animation` `Javascript` `Games` `Components` |
 | [Eva Santos](https://codepen.io/SoyEva/) | `Animation` `CSS` `SVG` `Javascript` |
 | [Gabi](https://codepen.io/enxaneta/) | `Canvas` `Animation` `SVG` `CSS` `Javascript` |
 | [Gerard Ferrandez](https://codepen.io/ge1doot/) | `Canvas` `3D` `Physics` `Animation` |
