@@ -43,6 +43,7 @@
 | [Louis Hoebregts](https://codepen.io/Mamboleoo/) | `Canvas` `Three.js` `Particles` `Shader` `GSAP` `Animation` |
 | [Lucas Bebber](http://codepen.io/lbebber/) | `CSS` `Animation` `SVG` |
 | [Marco Dell'Anna](https://codepen.io/plasm/) | `Animation` `Particles` `GreenSock` |
+| [Mariusz Dabrowski](https://codepen.io/MarioD/) | `Animation` `SVG` `Canvas` `Physics` `P5.js` `GSAP` |
 | [Michael Gehrmann](http://codepen.io/g12n/) | `CSS` `SVG` `Animation` |
 | [Nat Cooper](https://codepen.io/natacoops/) | `SVG` `Animation` `CSS` `GSAP` |
 | [Not Important](https://codepen.io/clindsey/) | `Animation` `Canvas` `Three.js` `Javascript` |
