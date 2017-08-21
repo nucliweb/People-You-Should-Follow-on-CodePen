@@ -5,6 +5,7 @@
 
 | CodePen Star | Tags |
 |--------------|------|
+| [Agathe Cocco](https://codepen.io/agathaco/) | `SVG` `CSS` `Animation` `GSAP` |
 | [Amelia Bellamy-Royds](https://codepen.io/AmeliaBR/) | `SVG` `CSS` `Animation` |
 | [Ana Tudor](https://codepen.io/thebabydino/) | `Animation` `Canvas` `Sass` `Javascript` |
 | [Anthony Dugois](http://codepen.io/anthonydugois/) | `SVG` `Three.js` `Animation` `Javascript` |
