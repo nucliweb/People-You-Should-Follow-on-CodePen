@@ -44,6 +44,7 @@
 | [Kenji Saito](http://codepen.io/kenjiSpecial/) | `Animation` `Canvas` `WebGL` `Three.js` `Particle` `Shader` |
 | [LegoMushroom](http://codepen.io/sol0mka/) | `Animation` `Javascript` `SVG` `Canvas` |
 | [Liam Brummitt](http://codepen.io/liabru/) | `Animation` `Canvas` `Physics` |
+| [Lisi](https://codepen.io/lisilinhart/) | `Animation` `SVG` `GSAP` `CSS` |
 | [Louis Hoebregts](https://codepen.io/Mamboleoo/) | `Canvas` `Three.js` `Particles` `Shader` `GSAP` `Animation` |
 | [Lucas Bebber](http://codepen.io/lbebber/) | `CSS` `Animation` `SVG` |
 | [Marco Dell'Anna](https://codepen.io/plasm/) | `Animation` `Particles` `GreenSock` |
