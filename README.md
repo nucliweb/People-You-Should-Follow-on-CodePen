@@ -57,6 +57,7 @@
 | [Rachel Bull](https://codepen.io/rachel_web/) | `CSS` `Animation` |
 | [Rachel Nabors](https://codepen.io/rachelnabors/) | `Animation` `CSS` `SVG` `WAAPI` |
 | [Rachel Smith](https://codepen.io/rachsmith/) | `Animation` `Canvas` `SVG` `Particles` `WebGL` |
+| [Ryan Thavi](https://codepen.io/rthavi/) | `Generative` `Canvas` `Animation` `Javascript` |
 | [Sasha Tran](https://codepen.io/sashatran/) | `CSS` `SVG` `Animation` |
 | [Sara Soueidan](http://codepen.io/SaraSoueidan/) | `SVG` `CSS` `Animation` |
 | [Sarah Drasner](http://codepen.io/sdras/) | `Animation` `SVG` `Javascript` `GreenSock` `GSAP` `Canvas` |
