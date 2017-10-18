@@ -51,6 +51,7 @@
 | [Mariusz Dabrowski](https://codepen.io/MarioD/) | `Animation` `SVG` `Canvas` `Physics` `P5.js` `GSAP` |
 | [Michael Gehrmann](http://codepen.io/g12n/) | `CSS` `SVG` `Animation` |
 | [Nat Cooper](https://codepen.io/natacoops/) | `SVG` `Animation` `CSS` `GSAP` |
+| [Noel Delgado](https://codepen.io/noeldelgado/) | `Animation` `Canvas` `CSS` `SVG` |
 | [Not Important](https://codepen.io/clindsey/) | `Animation` `Canvas` `Three.js` `Javascript` |
 | [Peter Barr](https://codepen.io/petebarr/) | `Animation` `SVG` `GSAP` `CSS` `GreenSock`|
 | [Petr Tichy](https://codepen.io/ihatetomatoes/) | `CSS` `Animation` `GreenSock` `SVG` `GSAP` `Canvas` |
