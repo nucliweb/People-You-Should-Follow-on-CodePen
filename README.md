@@ -15,6 +15,7 @@
 | [Chris Coyier](https://codepen.io/chriscoyier/) | `SVG` `CSS` `Animation` `Javascript` |
 | [Chris Gannon](https://codepen.io/chrisgannon/) | `SVG` `Animation` `GSAP` |
 | [Chris Johnson](https://codepen.io/jhnsnc/) | `SVG` `Animation` `Shader` `WebGL` `GLSL` `Javascript`|
+| [Christopher Wallis](https://codepen.io/notoriousb1t/) | `Animation` `SVG` `Javascript` |
 | [CJ Gammon](https://codepen.io/cjgammon/) | `SVG` `Canvas` `Animation` `Three.js` |
 | [Dan Wilson](https://codepen.io/danwilson/) | `Animation` `CSS` `WAAPI` |
 | [Daniel Del Core](https://codepen.io/delcore92/) | `Three.js` `3D` `WebGL` |
