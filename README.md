@@ -71,6 +71,7 @@
 | [Scott R McGann](https://codepen.io/cantelope/) | `Animation` `Canvas` `3D` `Particles` `Javascript` |
 | [Shaw](https://codepen.io/shshaw/) | `Animation` `CSS` `SVG` `Javascript` `Canvas` `Three.js`  |
 | [Sullivan Nolan](https://codepen.io/nolakat/) | `Animation` `CSS` `SVG` `WebGL` |
+| [Szenia Zadvornykh](https://codepen.io/zadvorsky/) | `Canvas` `Three.js` `WebGL` `Shader` |
 | [Thepheer](https://codepen.io/thepheer/) | `Canvas` `Particles` `3D` `WebGL` `Shader` |
 | [Thibaut](http://codepen.io/Thibka/) | `Canvas` `Particles` `Three.js` `Animation` |
 | [Tiffany Rayside](http://codepen.io/tmrDevelops/) | `Animation` `Canvas` `Particles` `SVG` `CSS` |
