@@ -81,3 +81,4 @@
 | [Yugam Dhuriya](https://codepen.io/pizza3/) | `Animation` `CSS` `SVG` `Canvas` `P5.js` |
 | [Yusuke Nakaya](https://codepen.io/YusukeNakaya/) | `Animation` `CSS` |
 | [Zach Saucier](http://codepen.io/Zeaklous/) | `Animation` `CSS` `SVG` |
+| [Diana Acebes](https://codepen.io/diana_aceves/) | `CSS` `SVG` `Animation` |
