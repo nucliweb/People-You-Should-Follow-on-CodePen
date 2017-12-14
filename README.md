@@ -13,6 +13,8 @@
 | [Anthony Dugois](http://codepen.io/anthonydugois/) | `SVG` `Three.js` `Animation` `Javascript` |
 | [Bali Balo](https://codepen.io/bali_balo/) | `Canvas` `Animation` `CSS` `Javascript`|
 | [Blake Bowen](http://codepen.io/osublake/) | `Animation` `SVG` `GSAP` `GreenSock` `Canvas` `Javascript` |
+| [Cami Williams](https://codepen.io/cwillycs/) | `CSS` |
+| [Cassidy Williams](https://codepen.io/cassidoo/) | `CSS` `Animaiton` |
 | [Chris Coyier](https://codepen.io/chriscoyier/) | `SVG` `CSS` `Animation` `Javascript` |
 | [Chris Gannon](https://codepen.io/chrisgannon/) | `SVG` `Animation` `GSAP` |
 | [Chris Johnson](https://codepen.io/jhnsnc/) | `SVG` `Animation` `Shader` `WebGL` `GLSL` `Javascript`|
