@@ -26,6 +26,7 @@
 | [David DeSandro](https://codepen.io/desandro/) | `Animation` `Canvas` `Game` |
 | [David Khourshid](https://codepen.io/davidkpiano/) | `Animation` `CSS` |
 | [Diaco ML](https://codepen.io/MAW/) | `Animation` `GSAP` `SVG` `Canvas` `Javascript` |
+| [DPDK](https://codepen.io/dpdknl/) | `WebGL` `Three.js` `Animaiton` `GSAP` |
 | [Drew Dahlman](https://codepen.io/DrewDahlman/) | `Canvas` `P5.js` |
 | [Dudley Storey](https://codepen.io/dudleystorey/) | `SVG` `CSS` `Animation` `Javascript` |
 | [Eli Fitch](https://codepen.io/elifitch/) | `Animaiton` `Three.js` `WebGL` `Canvas` |
@@ -38,6 +39,7 @@
 | [Greg Hovanesyan](https://codepen.io/gregh/) | `Javascript` `Web Audio` `Animation` `Game` `CSS` |
 | [Gregor Adams](https://codepen.io/pixelass/) | `Animation` `Fractal` `3D` `CSS` `Canvas` `SVG` |
 | [Hernan Torrisi](http://codepen.io/airnan/) | `SVG` `Animation` `Canvas` `GSAP` |
+| [Hornebom](https://codepen.io/Hornebom/) | `Animaiton` `CSS` `SVG` `Three.js` |
 | [Jack Rugile](https://codepen.io/jackrugile/) | `Canvas` `Animation` `CSS` `Particles` `Javascript` |
 | [Jackson A. Joseph](http://codepen.io/alexandrejosephdev/) | `3D` `Three.js` `Particles` `Animation` `CreativeCode`|
 | [Jake Albaugh](https://codepen.io/jakealbaugh/) | `CSS` `Web Audio` |
