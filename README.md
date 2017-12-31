@@ -14,7 +14,7 @@
 | [Bali Balo](https://codepen.io/bali_balo/) | `Canvas` `Animation` `CSS` `Javascript`|
 | [Blake Bowen](http://codepen.io/osublake/) | `Animation` `SVG` `GSAP` `GreenSock` `Canvas` `Javascript` |
 | [Cami Williams](https://codepen.io/cwillycs/) | `CSS` |
-| [Cassidy Williams](https://codepen.io/cassidoo/) | `CSS` `Animaiton` |
+| [Cassidy Williams](https://codepen.io/cassidoo/) | `CSS` `Animation` |
 | [Chris Coyier](https://codepen.io/chriscoyier/) | `SVG` `CSS` `Animation` `Javascript` |
 | [Chris Gannon](https://codepen.io/chrisgannon/) | `SVG` `Animation` `GSAP` |
 | [Chris Johnson](https://codepen.io/jhnsnc/) | `SVG` `Animation` `Shader` `WebGL` `GLSL` `Javascript`|
@@ -26,11 +26,12 @@
 | [David DeSandro](https://codepen.io/desandro/) | `Animation` `Canvas` `Game` |
 | [David Khourshid](https://codepen.io/davidkpiano/) | `Animation` `CSS` |
 | [Diaco ML](https://codepen.io/MAW/) | `Animation` `GSAP` `SVG` `Canvas` `Javascript` |
-| [DPDK](https://codepen.io/dpdknl/) | `WebGL` `Three.js` `Animaiton` `GSAP` |
+| [DPDK](https://codepen.io/dpdknl/) | `WebGL` `Three.js` `Animation` `GSAP` |
 | [Drew Dahlman](https://codepen.io/DrewDahlman/) | `Canvas` `P5.js` |
 | [Dudley Storey](https://codepen.io/dudleystorey/) | `SVG` `CSS` `Animation` `Javascript` |
-| [Eli Fitch](https://codepen.io/elifitch/) | `Animaiton` `Three.js` `WebGL` `Canvas` |
+| [Eli Fitch](https://codepen.io/elifitch/) | `Animation` `Three.js` `WebGL` `Canvas` |
 | [Elior Tabeka](https://codepen.io/eliortabeka/) | `SASS` `Animation` `Javascript` `Games` `Components` |
+| [Elliot Geno](https://codepen.io/pyrografix/) | `SVG` `GreenSock` `GSAP` `Animation` |
 | [Eva Santos](https://codepen.io/SoyEva/) | `Animation` `CSS` `SVG` `Javascript` |
 | [Gabi](https://codepen.io/enxaneta/) | `Canvas` `Animation` `SVG` `CSS` `Javascript` |
 | [Gerard Ferrandez](https://codepen.io/ge1doot/) | `Canvas` `3D` `Physics` `Animation` |
@@ -39,7 +40,8 @@
 | [Greg Hovanesyan](https://codepen.io/gregh/) | `Javascript` `Web Audio` `Animation` `Game` `CSS` |
 | [Gregor Adams](https://codepen.io/pixelass/) | `Animation` `Fractal` `3D` `CSS` `Canvas` `SVG` |
 | [Hernan Torrisi](http://codepen.io/airnan/) | `SVG` `Animation` `Canvas` `GSAP` |
-| [Hornebom](https://codepen.io/Hornebom/) | `Animaiton` `CSS` `SVG` `Three.js` |
+| [Hornebom](https://codepen.io/Hornebom/) | `Animation` `CSS` `SVG` `Three.js` |
+| [Issey](https://codepen.io/issey/) | `SVG` `Animation` `GreenSock` `GSAP` |
 | [Jack Rugile](https://codepen.io/jackrugile/) | `Canvas` `Animation` `CSS` `Particles` `Javascript` |
 | [Jackson A. Joseph](http://codepen.io/alexandrejosephdev/) | `3D` `Three.js` `Particles` `Animation` `CreativeCode`|
 | [Jake Albaugh](https://codepen.io/jakealbaugh/) | `CSS` `Web Audio` |
@@ -60,6 +62,7 @@
 | [Mariusz Dabrowski](https://codepen.io/MarioD/) | `Animation` `SVG` `Canvas` `Physics` `P5.js` `GSAP` |
 | [Massimo](https://codepen.io/_massimo/) | `Canvas` `CSS` `SVG` |
 | [Michael Gehrmann](http://codepen.io/g12n/) | `CSS` `SVG` `Animation` |
+| [Mike Schultz](https://codepen.io/mike-schultz/)| `Animation` `SVG` `CSS` |
 | [Nat Cooper](https://codepen.io/natacoops/) | `SVG` `Animation` `CSS` `GSAP` |
 | [Noel Delgado](https://codepen.io/noeldelgado/) | `Animation` `Canvas` `CSS` `SVG` |
 | [Not Important](https://codepen.io/clindsey/) | `Animation` `Canvas` `Three.js` `Javascript` |
@@ -75,8 +78,10 @@
 | [Sarah Drasner](http://codepen.io/sdras/) | `Animation` `SVG` `Javascript` `GreenSock` `GSAP` `Canvas` |
 | [Scott R McGann](https://codepen.io/cantelope/) | `Animation` `Canvas` `3D` `Particles` `Javascript` |
 | [Shaw](https://codepen.io/shshaw/) | `Animation` `CSS` `SVG` `Javascript` `Canvas` `Three.js`  |
+| [Stefan Weck](https://codepen.io/stefanweck/) | `Canvas` `Animation` `WebGL` `Shader`|
 | [Sullivan Nolan](https://codepen.io/nolakat/) | `Animation` `CSS` `SVG` `WebGL` |
 | [Szenia Zadvornykh](https://codepen.io/zadvorsky/) | `Canvas` `Three.js` `WebGL` `Shader` |
+| [Takashi](https://codepen.io/tksiiii/) | `P5.js` `Canvas` `Particles` |
 | [Thepheer](https://codepen.io/thepheer/) | `Canvas` `Particles` `3D` `WebGL` `Shader` |
 | [Thibaut](http://codepen.io/Thibka/) | `Canvas` `Particles` `Three.js` `Animation` |
 | [Tiffany Rayside](http://codepen.io/tmrDevelops/) | `Animation` `Canvas` `Particles` `SVG` `CSS` |
