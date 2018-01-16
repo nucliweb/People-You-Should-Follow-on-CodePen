@@ -22,6 +22,7 @@ CodePen Star                                               | Tags
 [Christopher Wallis](https://codepen.io/notoriousb1t/)     | `Animation` `SVG` `Javascript`
 [CJ Gammon](https://codepen.io/cjgammon/)                  | `SVG` `Canvas` `Animation` `Three.js`
 [Dan Wilson](https://codepen.io/danwilson/)                | `Animation` `CSS` `WAAPI`
+[Daniel](https://codepen.io/scorch/)                       | `Canvas` `SVG` `Particles`
 [Daniel Del Core](https://codepen.io/delcore92/)           | `Three.js` `3D` `WebGL`
 [Dave Whyte](https://codepen.io/beesandbombs/)             | `P5.js` `Animation` `Canvas` `Javascript`
 [David DeSandro](https://codepen.io/desandro/)             | `Animation` `Canvas` `Game`
@@ -79,6 +80,7 @@ CodePen Star                                               | Tags
 [Sasha Tran](https://codepen.io/sashatran/)                | `CSS` `SVG` `Animation`
 [Sara Soueidan](http://codepen.io/SaraSoueidan/)           | `SVG` `CSS` `Animation`
 [Sarah Drasner](http://codepen.io/sdras/)                  | `Animation` `SVG` `Javascript` `GreenSock` `GSAP` `Canvas`
+[Sebastian DeRossi](https://codepen.io/derossi_s/)         | `Create.JS` `Easel.JS` `Canvas` `Animation` `Javascript`
 [Scott R McGann](https://codepen.io/cantelope/)            | `Animation` `Canvas` `3D` `Particles` `Javascript`
 [Shaw](https://codepen.io/shshaw/)                         | `Animation` `CSS` `SVG` `Javascript` `Canvas` `Three.js`
 [Stefan Weck](https://codepen.io/stefanweck/)              | `Canvas` `Animation` `WebGL` `Shader`
