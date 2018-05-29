@@ -93,6 +93,7 @@ CodePen Star                                               | Tags
 [Tiffany Rayside](http://codepen.io/tmrDevelops/)          | `Animation` `Canvas` `Particles` `SVG` `CSS`
 [Val Head](https://codepen.io/valhead/)                    | `Animation` `CSS` `SVG` `P5.js` `GreenSock`
 [Varun Vachhar](https://codepen.io/winkerVSbecks/)         | `Animation` `CSS` `SVG` `P5.js` `GreenSock` `GSAP`
+[web-tiki](https://codepen.io/web-tiki/)                   | `Animation` `CSS` `SVG` `Responsive` `Grid`
 [Yoksel](https://codepen.io/yoksel/)                       | `Animation` `CSS` `SVG`
 [Yuán Chuān](https://codepen.io/yuanchuan/)                | `SVG` `CSS` `Animation` `GreenSock` `Javascript`
 [Yugam Dhuriya](https://codepen.io/pizza3/)                | `Animation` `CSS` `SVG` `Canvas` `P5.js`
