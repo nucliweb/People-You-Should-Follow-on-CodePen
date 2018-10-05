@@ -53,6 +53,7 @@ CodePen Star                                               | Tags
 [Joni Trythall](http://codepen.io/jonitrythall/)           | `Animation` `SVG` `Sass`
 [Joseph Rex](https://codepen.io/josephrexme/)              | `Animation` `GSAP` `SVG` `CSS`
 [Judith Neumann](https://codepen.io/judag/)                | `Animation` `CSS`
+[Julia Muzafarova](https://codepen.io/miocene/)            | `Animation` `CSS`
 [Julian Garnier](https://codepen.io/juliangarnier/)        | `Animation` `SVG` `CSS` `3D` `Javascript`
 [Justin Windle](http://codepen.io/soulwire/)               | `Animation` `Canvas` `Particles` `Physics` `Javascript` `WebGL`
 [K-T](http://codepen.io/K-T/)                              | `Animation` `Canvas` `Particles` `Javascript`
