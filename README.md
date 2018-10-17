@@ -9,6 +9,7 @@ CodePen Star                                               | Tags
 [Agathe Cocco](https://codepen.io/agathaco/)               | `SVG` `CSS` `Animation` `GSAP`
 [Alex McNerney](https://codepen.io/ajm13/)                 | `Canvas` `Particles` `Generative`
 [Alexandre Rivaux](https://codepen.io/alexr4/)             | `WebGL` `GLSL` `Animation` `Generative`
+[Alvaro Montoro](https://codepen.io/alvaromontoro/)        | `CSS` `Game` `Animation`
 [Amelia Bellamy-Royds](https://codepen.io/AmeliaBR/)       | `SVG` `CSS` `Animation`
 [Ana Tudor](https://codepen.io/thebabydino/)               | `Animation` `Canvas` `Sass` `Javascript`
 [Anthony Dugois](http://codepen.io/anthonydugois/)         | `SVG` `Three.js` `Animation` `Javascript`
