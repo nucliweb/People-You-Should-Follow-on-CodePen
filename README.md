@@ -44,6 +44,7 @@ CodePen Star                                               | Tags
 [Greg Hovanesyan](https://codepen.io/gregh/)               | `Javascript` `Web Audio` `Animation` `Game` `CSS`
 [Gregor Adams](https://codepen.io/pixelass/)               | `Animation` `Fractal` `3D` `CSS` `Canvas` `SVG`
 [Hernan Torrisi](http://codepen.io/airnan/)                | `SVG` `Animation` `Canvas` `GSAP`
+[Himalaya Singh](https://codepen.io/himalayasingh/)        | `CSS` `Animation`
 [Hornebom](https://codepen.io/Hornebom/)                   | `Animation` `CSS` `SVG` `Three.js`
 [Issey](https://codepen.io/issey/)                         | `SVG` `Animation` `GreenSock` `GSAP`
 [Jack Rugile](https://codepen.io/jackrugile/)              | `Canvas` `Animation` `CSS` `Particles` `Javascript`
