@@ -50,6 +50,7 @@ CodePen Star                                               | Tags
 [Jack Rugile](https://codepen.io/jackrugile/)              | `Canvas` `Animation` `CSS` `Particles` `Javascript`
 [Jackson A. Joseph](http://codepen.io/alexandrejosephdev/) | `3D` `Three.js` `Particles` `Animation` `CreativeCode`
 [Jake Albaugh](https://codepen.io/jakealbaugh/)            | `CSS` `Web Audio`
+[Jamie Coulter](https://codepen.io/jcoulterdesign/)        | `CSS` `Game` `Animation`
 [Jerome Herr](https://codepen.io/p5art/)                   | `Canvas` `Animation` `P5js` `Particles` `Processing` `Generative`
 [Johan Karlsson](http://codepen.io/DonKarlssonSan/)        | `P5.js` `Fractal` `Canvas` `Animation` `WebAudio`
 [Joni Trythall](http://codepen.io/jonitrythall/)           | `Animation` `SVG` `Sass`
