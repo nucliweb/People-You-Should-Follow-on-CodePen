@@ -105,3 +105,4 @@ CodePen Star                                               | Tags
 [Yugam Dhuriya](https://codepen.io/pizza3/)                | `Animation` `CSS` `SVG` `Canvas` `P5.js`
 [Yusuke Nakaya](https://codepen.io/YusukeNakaya/)          | `Animation` `CSS`
 [Zach Saucier](http://codepen.io/Zeaklous/)                | `Animation` `CSS` `SVG`
+[Zed Dash](https://codepen.io/z-/)                         | `Animation` `CSS` `Javascript`
