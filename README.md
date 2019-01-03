@@ -77,6 +77,7 @@ CodePen Star                                               | Tags
 [Nat Cooper](https://codepen.io/natacoops/)                | `SVG` `Animation` `CSS` `GSAP`
 [Noel Delgado](https://codepen.io/noeldelgado/)            | `Animation` `Canvas` `CSS` `SVG`
 [Not Important](https://codepen.io/clindsey/)              | `Animation` `Canvas` `Three.js` `Javascript`
+[Olivia](https://codepen.io/oliviale/)                     | `Animation` `CSS` `Javascript`
 [Peter Barr](https://codepen.io/petebarr/)                 | `Animation` `SVG` `GSAP` `CSS` `GreenSock`
 [Petr Tichy](https://codepen.io/ihatetomatoes/)            | `CSS` `Animation` `GreenSock` `SVG` `GSAP` `Canvas`
 [Rachel Bull](https://codepen.io/rachel_web/)              | `CSS` `Animation`
