@@ -16,6 +16,7 @@ CodePen Star                                               | Tags
 [Bali Balo](https://codepen.io/bali_balo/)                 | `Canvas` `Animation` `CSS` `Javascript`
 [Blake Bowen](http://codepen.io/osublake/)                 | `Animation` `SVG` `GSAP` `GreenSock` `Canvas` `Javascript`
 [Cami Williams](https://codepen.io/cwillycs/)              | `CSS`
+[Cassie Evans](https://codepen.io/cassie-codes/)           | `CSS` `Animation` `GSAP` `SVG`
 [Cassidy Williams](https://codepen.io/cassidoo/)           | `CSS` `Animation`
 [Chris Coyier](https://codepen.io/chriscoyier/)            | `SVG` `CSS` `Animation` `Javascript`
 [Chris Gannon](https://codepen.io/chrisgannon/)            | `SVG` `Animation` `GSAP`
