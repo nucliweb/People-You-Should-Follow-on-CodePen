@@ -64,6 +64,7 @@ CodePen Star                                               | Tags
 [K-T](http://codepen.io/K-T/)                              | `Animation` `Canvas` `Particles` `Javascript`
 [Karim Maaloul](https://codepen.io/Yakudoo/)               | `Animation` `WebGL` `Three.js` `3D` `Particles` `GSAP`
 [Kenji Saito](http://codepen.io/kenjiSpecial/)             | `Animation` `Canvas` `WebGL` `Three.js` `Particle` `Shader`
+[Kyle Brumm](https://codepen.io/kjbrum/)                   | `Animation` `CSS` `Javascript`
 [LegoMushroom](http://codepen.io/sol0mka/)                 | `Animation` `Javascript` `SVG` `Canvas`
 [Liam Brummitt](http://codepen.io/liabru/)                 | `Animation` `Canvas` `Physics`
 [Liam Egan](https://codepen.io/shubniggurath/)             | `GLSL` `Shaders` `Javascript` `Generative` `CreativeCode` `Animation`
