@@ -6,11 +6,12 @@
 
 CodePen Star                                               | Tags
 ---------------------------------------------------------- | ---------------------------------------------------------------
+[Adam Argyle](https://codepen.io/argyleink)                | `CSS` `Animation`
 [Adam Kuhn](https://codepen.io/cobra_winfrey/)             | `SVG` `CSS` `Animation`
 [Agathe Cocco](https://codepen.io/agathaco/)               | `SVG` `CSS` `Animation` `GSAP`
 [Alex McNerney](https://codepen.io/ajm13/)                 | `Canvas` `Particles` `Generative`
 [Alexandre Rivaux](https://codepen.io/alexr4/)             | `WebGL` `GLSL` `Animation` `Generative`
-[al-ro](https://codepen.io/al-ro)                    | `Shaders` `GLSL` `Three.js` `Particles`
+[al-ro](https://codepen.io/al-ro)                          | `Shaders` `GLSL` `Three.js` `Particles`
 [Alvaro Montoro](https://codepen.io/alvaromontoro/)        | `CSS` `Game` `Animation`
 [Amelia Bellamy-Royds](https://codepen.io/AmeliaBR/)       | `SVG` `CSS` `Animation`
 [Ana Tudor](https://codepen.io/thebabydino/)               | `Animation` `Canvas` `Sass` `Javascript`
