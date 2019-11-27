@@ -44,6 +44,7 @@ CodePen Star                                               | Tags
 [Gabi](https://codepen.io/enxaneta/)                       | `Canvas` `Animation` `SVG` `CSS` `Javascript`
 [Gerard Ferrandez](https://codepen.io/ge1doot/)            | `Canvas` `3D` `Physics` `Animation`
 [Giana](https://codepen.io/giana/)                         | `CSS` `Animation` `Sass` `Canvas` `Javascript` `Particles`
+[Grant Skinner](https://codepen.io/gskinner)               | `Canvas` `Javascript` `Particles` `3D` `CreateJS`
 [GreenSock](https://codepen.io/GreenSock/)                 | `GSAP` `SVG` `Animation` `GreenSock` `Javascript`
 [Greg Hovanesyan](https://codepen.io/gregh/)               | `Javascript` `Web Audio` `Animation` `Game` `CSS`
 [Gregor Adams](https://codepen.io/pixelass/)               | `Animation` `Fractal` `3D` `CSS` `Canvas` `SVG`
