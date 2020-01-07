@@ -17,6 +17,7 @@ CodePen Star                                               | Tags
 [Ana Tudor](https://codepen.io/thebabydino/)               | `Animation` `Canvas` `Sass` `Javascript`
 [Anthony Dugois](http://codepen.io/anthonydugois/)         | `SVG` `Three.js` `Animation` `Javascript`
 [Bali Balo](https://codepen.io/bali_balo/)                 | `Canvas` `Animation` `CSS` `Javascript`
+[Ben Evans](https://codepen.io/ivorjetski/)                | `CSS`
 [Blake Bowen](http://codepen.io/osublake/)                 | `Animation` `SVG` `GSAP` `GreenSock` `Canvas` `Javascript`
 [Cami Williams](https://codepen.io/cwillycs/)              | `CSS`
 [Cassie Evans](https://codepen.io/cassie-codes/)           | `CSS` `Animation` `GSAP` `SVG`
