@@ -57,6 +57,7 @@
 | [Jake Albaugh](https://codepen.io/jakealbaugh/)            | `CSS` `Web Audio`                                                     |
 | [Jamie Coulter](https://codepen.io/jcoulterdesign/)        | `CSS` `Game` `Animation`                                              |
 | [Jerome Herr](https://codepen.io/p5art/)                   | `Canvas` `Animation` `P5js` `Particles` `Processing` `Generative`     |
+| [Jhey](https://codepen.io/jh3y)                            | `Animation` `CSS` `GreenSock` `SVG`                                   |
 | [Johan Karlsson](http://codepen.io/DonKarlssonSan/)        | `P5.js` `Fractal` `Canvas` `Animation` `WebAudio`                     |
 | [Joni Trythall](http://codepen.io/jonitrythall/)           | `Animation` `SVG` `Sass`                                              |
 | [Joseph Rex](https://codepen.io/josephrexme/)              | `Animation` `GSAP` `SVG` `CSS`                                        |
