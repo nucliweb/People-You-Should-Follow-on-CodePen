@@ -41,6 +41,7 @@
 | [Elior Tabeka](https://codepen.io/eliortabeka/)            | `SASS` `Animation` `Javascript` `Games` `Components`                  |
 | [Elliot Geno](https://codepen.io/pyrografix/)              | `SVG` `GreenSock` `GSAP` `Animation`                                  |
 | [Eva Santos](https://codepen.io/SoyEva/)                   | `Animation` `CSS` `SVG` `Javascript`                                  |
+| [Fabio Ottaviani](https://codepen.io/supah)                | `Animation` `SVG` `Three.js`                                          |
 | [Gabi](https://codepen.io/enxaneta/)                       | `Canvas` `Animation` `SVG` `CSS` `Javascript`                         |
 | [Gerard Ferrandez](https://codepen.io/ge1doot/)            | `Canvas` `3D` `Physics` `Animation`                                   |
 | [Giana](https://codepen.io/giana/)                         | `CSS` `Animation` `Sass` `Canvas` `Javascript` `Particles`            |
