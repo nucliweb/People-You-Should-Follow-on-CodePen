@@ -57,6 +57,7 @@
 | [Jackson A. Joseph](http://codepen.io/alexandrejosephdev/) | `3D` `Three.js` `Particles` `Animation` `CreativeCode`                |
 | [Jake Albaugh](https://codepen.io/jakealbaugh/)            | `CSS` `Web Audio`                                                     |
 | [Jamie Coulter](https://codepen.io/jcoulterdesign/)        | `CSS` `Game` `Animation`                                              |
+| [Jatin Rao](https://codepen.io/jatinrao/)                  | `CSS` `Javascript` `Animation'                                        |
 | [Jerome Herr](https://codepen.io/p5art/)                   | `Canvas` `Animation` `P5js` `Particles` `Processing` `Generative`     |
 | [Jhey](https://codepen.io/jh3y)                            | `Animation` `CSS` `GreenSock` `SVG`                                   |
 | [Johan Karlsson](http://codepen.io/DonKarlssonSan/)        | `P5.js` `Fractal` `Canvas` `Animation` `WebAudio`                     |
