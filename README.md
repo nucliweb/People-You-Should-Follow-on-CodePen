@@ -87,6 +87,8 @@
 | [Mattia Astorino](http://codepen.io/equinusocio/)          | `CSS` `Animation` `Creative Code`                                     |
 | [Michael Gehrmann](http://codepen.io/g12n/)                | `CSS` `SVG` `Animation`                                               |
 | [Mike Schultz](https://codepen.io/mike-schultz/)           | `Animation` `SVG` `CSS`                                               |
+| [Misha Tsankashvili](https://codepen.io/tsankashvili/)     | `Animation` `CSS`
+      |
 | [Mustafa Enes](https://codepen.io/pavlovsk/)               | `CSS` `Animation` `CSS`                                               |
 | [Nat Cooper](https://codepen.io/natacoops/)                | `SVG` `Animation` `CSS` `GSAP`                                        |
 | [Noel Delgado](https://codepen.io/noeldelgado/)            | `Animation` `Canvas` `CSS` `SVG`                                      |
