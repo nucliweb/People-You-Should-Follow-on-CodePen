@@ -8,6 +8,7 @@
 | ---------------------------------------------------------- | --------------------------------------------------------------------- |
 | [Adam Argyle](https://codepen.io/argyleink)                | `CSS` `Animation`                                                     |
 | [Adam Kuhn](https://codepen.io/cobra_winfrey/)             | `SVG` `CSS` `Animation`                                               |
+| [Adir Slutzki](https://codepen.io/Adir-SL)                 | `CSS` `SVG` `Animation`                                               |
 | [Agathe Cocco](https://codepen.io/agathaco/)               | `SVG` `CSS` `Animation` `GSAP`                                        |
 | [Alex McNerney](https://codepen.io/ajm13/)                 | `Canvas` `Particles` `Generative`                                     |
 | [Alexandre Rivaux](https://codepen.io/alexr4/)             | `WebGL` `GLSL` `Animation` `Generative`                               |
