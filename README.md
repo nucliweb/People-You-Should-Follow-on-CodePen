@@ -16,6 +16,7 @@
 | [Alvaro Montoro](https://codepen.io/alvaromontoro/)        | `CSS` `Game` `Animation`                                              |
 | [Amelia Bellamy-Royds](https://codepen.io/AmeliaBR/)       | `SVG` `CSS` `Animation`                                               |
 | [Ana Tudor](https://codepen.io/thebabydino/)               | `Animation` `Canvas` `Sass` `Javascript`                              |
+| [AndyMan](https://codepen.io/Manoylov)                     | `Canvas` `Generative` `Creative Code` `GSAP`                              |
 | [Anthony Dugois](http://codepen.io/anthonydugois/)         | `SVG` `Three.js` `Animation` `Javascript`                             |
 | [Bali Balo](https://codepen.io/bali_balo/)                 | `Canvas` `Animation` `CSS` `Javascript`                               |
 | [Ben Evans](https://codepen.io/ivorjetski/)                | `CSS`                                                                 |
