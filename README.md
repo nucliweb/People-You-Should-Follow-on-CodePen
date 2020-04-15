@@ -113,6 +113,7 @@
 | [Sullivan Nolan](https://codepen.io/nolakat/)              | `Animation` `CSS` `SVG` `WebGL`                                       |
 | [Szenia Zadvornykh](https://codepen.io/zadvorsky/)         | `Canvas` `Three.js` `WebGL` `Shader`                                  |
 | [Takashi](https://codepen.io/tksiiii/)                     | `P5.js` `Canvas` `Particles`                                          |
+| [Tee Diang](https://codepen.io/cybercountess)              | `CSS` `Animaiton`                                                     |
 | [Tibix](https://codepen.io/Tibixx/)                        | `Animation` `Canvas` `CSS` `Particles`                                |
 | [Tim Holman](https://codepen.io/tholman/)                  | `Canvas` `Animation` `Interactive` `Generative` `JS`                  |
 | [Thepheer](https://codepen.io/thepheer/)                   | `Canvas` `Particles` `3D` `WebGL` `Shader`                            |
