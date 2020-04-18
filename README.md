@@ -106,6 +106,7 @@
 | [Sasha Tran](https://codepen.io/sashatran/)                | `CSS` `SVG` `Animation`                                               |
 | [Sara Soueidan](http://codepen.io/SaraSoueidan/)           | `SVG` `CSS` `Animation`                                               |
 | [Sarah Drasner](http://codepen.io/sdras/)                  | `Animation` `SVG` `Javascript` `GreenSock` `GSAP` `Canvas`            |
+| [Sarah Fossheim](http://codepen.io/fossheim/)              | `CSS` `Animation`                                                     |
 | [Sebastian DeRossi](https://codepen.io/derossi_s/)         | `Create.JS` `Easel.JS` `Canvas` `Animation` `Javascript`              |
 | [Scott R McGann](https://codepen.io/cantelope/)            | `Animation` `Canvas` `3D` `Particles` `Javascript`                    |
 | [Shaw](https://codepen.io/shshaw/)                         | `Animation` `CSS` `SVG` `Javascript` `Canvas` `Three.js`              |
