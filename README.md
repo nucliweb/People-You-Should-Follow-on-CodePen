@@ -11,9 +11,9 @@
 | [Adam Kuhn](https://codepen.io/cobra_winfrey) | `SVG`, `CSS`, `Animation` |
 | [Adir Slutzki](https://codepen.io/Adir-SL) | `CSS`, `SVG`, `Animation` |
 | [Agathe Cocco](https://codepen.io/agathaco) | `SVG`, `CSS`, `Animation`, `GSAP` |
-| [al-ro](https://codepen.io/al-ro) | `Shaders`, `GLSL`, `Three.js`, `Particles` |
 | [Alex McNerney](https://codepen.io/ajm13) | `Canvas`, `Particles`, `Generative` |
 | [Alexandre Rivaux](https://codepen.io/alexr4) | `WebGL`, `GLSL`, `Animation`, `Generative` |
+| [al-ro](https://codepen.io/al-ro) | `Shaders`, `GLSL`, `Three.js`, `Particles` |
 | [Alvaro Montoro](https://codepen.io/alvaromontoro) | `CSS`, `Game`, `Animation` |
 | [Amelia Bellamy-Royds](https://codepen.io/AmeliaBR) | `SVG`, `CSS`, `Animation` |
 | [Ana Tudor](https://codepen.io/thebabydino) | `Animation`, `Canvas`, `Sass`, `Javascript` |
@@ -23,8 +23,8 @@
 | [Ben Evans](https://codepen.io/ivorjetski) | `CSS` |
 | [Blake Bowen](https://codepen.io/osublake) | `Animation`, `SVG`, `GSAP`, `GreenSock`, `Canvas`, `Javascript` |
 | [Cami Williams](https://codepen.io/cwillycs) | `CSS` |
-| [Cassidy Williams](https://codepen.io/cassidoo) | `CSS`, `Animation` |
 | [Cassie Evans](https://codepen.io/cassie-codes) | `CSS`, `Animation`, `GSAP`, `SVG` |
+| [Cassidy Williams](https://codepen.io/cassidoo) | `CSS`, `Animation` |
 | [Chris Coyier](https://codepen.io/chriscoyier) | `SVG`, `CSS`, `Animation`, `Javascript` |
 | [Chris Gannon](https://codepen.io/chrisgannon) | `SVG`, `Animation`, `GSAP` |
 | [Chris Johnson](https://codepen.io/jhnsnc) | `SVG`, `Animation`, `Shader`, `WebGL`, `GLSL`, `Javascript` |
@@ -104,30 +104,30 @@
 | [Riley J Shaw](https://codepen.io/rileyjshaw) | `Animation`, `Canvas`, `CSS`, `Javascript` |
 | [Rob DiMarzo](https://codepen.io/robdimarzo) | `Animation`, `Canvas`, `CSS`, `Javascript`, `GSAP` |
 | [Ryan Thavi](https://codepen.io/rthavi) | `Generative`, `Canvas`, `Animation`, `Javascript` |
+| [Sasha Tran](https://codepen.io/sashatran) | `CSS`, `SVG`, `Animation` |
 | [Sara Soueidan](https://codepen.io/SaraSoueidan) | `SVG`, `CSS`, `Animation` |
 | [Sarah Drasner](https://codepen.io/sdras) | `Animation`, `SVG`, `Javascript`, `GreenSock`, `GSAP`, `Canvas` |
 | [Sarah Fossheim](https://codepen.io/fossheim) | `CSS`, `Animation` |
-| [Sasha Tran](https://codepen.io/sashatran) | `CSS`, `SVG`, `Animation` |
-| [Scott R McGann](https://codepen.io/cantelope) | `Animation`, `Canvas`, `3D`, `Particles`, `Javascript` |
 | [Sebastian DeRossi](https://codepen.io/derossi_s) | `Create.JS`, `Easel.JS`, `Canvas`, `Animation`, `Javascript` |
+| [Scott R McGann](https://codepen.io/cantelope) | `Animation`, `Canvas`, `3D`, `Particles`, `Javascript` |
 | [Shaw](https://codepen.io/shshaw) | `Animation`, `CSS`, `SVG`, `Javascript`, `Canvas`, `Three.js` |
 | [Stefan Weck](https://codepen.io/stefanweck) | `Canvas`, `Animation`, `WebGL`, `Shader` |
 | [Sullivan Nolan](https://codepen.io/nolakat) | `Animation`, `CSS`, `SVG`, `WebGL` |
 | [Szenia Zadvornykh](https://codepen.io/zadvorsky) | `Canvas`, `Three.js`, `WebGL`, `Shader` |
 | [Takashi](https://codepen.io/tksiiii) | `P5.js`, `Canvas`, `Particles` |
 | [Tee Diang](https://codepen.io/cybercountess) | `CSS`, `Animaiton` |
+| [Tibix](https://codepen.io/Tibixx) | `Animation`, `Canvas`, `CSS`, `Particles` |
+| [Tim Holman](https://codepen.io/tholman) | `Canvas`, `Animation`, `Interactive`, `Generative`, `JS` |
 | [Thepheer](https://codepen.io/thepheer) | `Canvas`, `Particles`, `3D`, `WebGL`, `Shader` |
 | [Thibaut](https://codepen.io/Thibka) | `Canvas`, `Particles`, `Three.js`, `Animation` |
-| [Tibix](https://codepen.io/Tibixx) | `Animation`, `Canvas`, `CSS`, `Particles` |
 | [Tiffany Rayside](https://codepen.io/tmrDevelops) | `Animation`, `Canvas`, `Particles`, `SVG`, `CSS` |
-| [Tim Holman](https://codepen.io/tholman) | `Canvas`, `Animation`, `Interactive`, `Generative`, `JS` |
 | [Val Head](https://codepen.io/valhead) | `Animation`, `CSS`, `SVG`, `P5.js`, `GreenSock` |
 | [Varun Vachhar](https://codepen.io/winkerVSbecks) | `Animation`, `CSS`, `SVG`, `P5.js`, `GreenSock`, `GSAP` |
 | [Victor Vergara](https://codepen.io/vcomics) | `3D`, `Three.js`, `Shader`, `Animation` |
 | [Yoksel](https://codepen.io/yoksel) | `Animation`, `CSS`, `SVG` |
+| [Yuán Chuān](https://codepen.io/yuanchuan) | `SVG`, `CSS`, `Animation`, `GreenSock`, `Javascript` |
 | [Yugam Dhuriya](https://codepen.io/pizza3) | `Animation`, `CSS`, `SVG`, `Canvas`, `P5.js` |
 | [Yusuke Nakaya](https://codepen.io/YusukeNakaya) | `Animation`, `CSS` |
-| [Yuán Chuān](https://codepen.io/yuanchuan) | `SVG`, `CSS`, `Animation`, `GreenSock`, `Javascript` |
 | [Zach Saucier](https://codepen.io/Zeaklous) | `Animation`, `CSS`, `SVG` |
 | [Zed Dash](https://codepen.io/z-) | `Animation`, `CSS`, `Javascript` |
 

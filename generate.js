@@ -14,7 +14,7 @@ let markdown = `
 | CodePen Coder  | Tags  |
 | -------------- | ----- |
 `
-for (const codepenCoder of codepenCoders.sort((a, b) => a.name.toLowerCase() > b.name.toLowerCase() ? 1 : -1)) {
+for (const codepenCoder of codepenCoders.sort(Intl.Collator().compare)) {
   const tags = codepenCoder.tags.map(tag => `\`${tag}\``)
   markdown += `| [${codepenCoder.name}](${codepenUrl}${codepenCoder.codepen}) | ${tags.join(', ')} |\n`
 }
