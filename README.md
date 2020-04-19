@@ -11,6 +11,7 @@
 | [Adam Kuhn](https://codepen.io/cobra_winfrey) | `SVG`, `CSS`, `Animation` |
 | [Adir Slutzki](https://codepen.io/Adir-SL) | `CSS`, `SVG`, `Animation` |
 | [Agathe Cocco](https://codepen.io/agathaco) | `SVG`, `CSS`, `Animation`, `GSAP` |
+| [al-ro](https://codepen.io/al-ro) | `Shaders`, `GLSL`, `Three.js`, `Particles` |
 | [Alex McNerney](https://codepen.io/ajm13) | `Canvas`, `Particles`, `Generative` |
 | [Alexandre Rivaux](https://codepen.io/alexr4) | `WebGL`, `GLSL`, `Animation`, `Generative` |
 | [Alvaro Montoro](https://codepen.io/alvaromontoro) | `CSS`, `Game`, `Animation` |
@@ -21,7 +22,6 @@
 | [Bali Balo](https://codepen.io/bali_balo) | `Canvas`, `Animation`, `CSS`, `Javascript` |
 | [Ben Evans](https://codepen.io/ivorjetski) | `CSS` |
 | [Blake Bowen](https://codepen.io/osublake) | `Animation`, `SVG`, `GSAP`, `GreenSock`, `Canvas`, `Javascript` |
-| [CJ Gammon](https://codepen.io/cjgammon) | `SVG`, `Canvas`, `Animation`, `Three.js` |
 | [Cami Williams](https://codepen.io/cwillycs) | `CSS` |
 | [Cassidy Williams](https://codepen.io/cassidoo) | `CSS`, `Animation` |
 | [Cassie Evans](https://codepen.io/cassie-codes) | `CSS`, `Animation`, `GSAP`, `SVG` |
@@ -30,7 +30,7 @@
 | [Chris Johnson](https://codepen.io/jhnsnc) | `SVG`, `Animation`, `Shader`, `WebGL`, `GLSL`, `Javascript` |
 | [Christina Gorton](https://codepen.io/cgorton) | `SVG`, `Animation`, `GSAP`, `CSS` |
 | [Christopher Wallis](https://codepen.io/notoriousb1t) | `Animation`, `SVG`, `Javascript` |
-| [DPDK](https://codepen.io/dpdknl) | `WebGL`, `Three.js`, `Animation`, `GSAP` |
+| [CJ Gammon](https://codepen.io/cjgammon) | `SVG`, `Canvas`, `Animation`, `Three.js` |
 | [Dan Wilson](https://codepen.io/danwilson) | `Animation`, `CSS`, `WAAPI` |
 | [Daniel](https://codepen.io/scorch) | `Canvas`, `SVG`, `Particles` |
 | [Daniel Del Core](https://codepen.io/delcore92) | `Three.js`, `3D`, `WebGL` |
@@ -39,6 +39,7 @@
 | [David Khourshid](https://codepen.io/davidkpiano) | `Animation`, `CSS` |
 | [Diaco ML](https://codepen.io/MAW) | `Animation`, `GSAP`, `SVG`, `Canvas`, `Javascript` |
 | [Dion Snoeijen](https://codepen.io/octopus11) | `Canvas`, `Javascript`, `Creative Code`, `Generative` |
+| [DPDK](https://codepen.io/dpdknl) | `WebGL`, `Three.js`, `Animation`, `GSAP` |
 | [Drew Dahlman](https://codepen.io/DrewDahlman) | `Canvas`, `P5.js` |
 | [Dudley Storey](https://codepen.io/dudleystorey) | `SVG`, `CSS`, `Animation`, `Javascript` |
 | [Eli Fitch](https://codepen.io/elifitch) | `Animation`, `Three.js`, `WebGL`, `Canvas` |
@@ -129,7 +130,12 @@
 | [Yuán Chuān](https://codepen.io/yuanchuan) | `SVG`, `CSS`, `Animation`, `GreenSock`, `Javascript` |
 | [Zach Saucier](https://codepen.io/Zeaklous) | `Animation`, `CSS`, `SVG` |
 | [Zed Dash](https://codepen.io/z-) | `Animation`, `CSS`, `Javascript` |
-| [al-ro](https://codepen.io/al-ro) | `Shaders`, `GLSL`, `Three.js`, `Particles` |
+
+### Contributing
+
+1. Add someone to `directory.js`
+2. Run `node generate.js` to generate README.md file
+3. Open a Pull Request 👍
 
 ------------------------
 
