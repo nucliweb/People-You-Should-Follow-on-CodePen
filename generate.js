@@ -1,3 +1,5 @@
+// Thanks to jhey tompkins
+// This script is forked from https://github.com/jh3y/creatives-directory/blob/master/generate.js
 const codepenCoders = require('./codepen-coders')
 const fs = require('fs')
 const codepenUrl = 'https://codepen.io/'
@@ -18,6 +20,12 @@ for (const codepenCoder of codepenCoders.sort((a, b) => a.name > b.name ? 1 : -1
 }
 
 markdown += `
+### Contributing
+
+1. Add someone to \`directory.js\`
+2. Run \`node generate.js\` to generate README.md file
+3. Open a Pull Request 👍
+
 ------------------------
 
 By [Joan León](https://joanleon.dev) | [@nucliweb](https://twitter.com/nucliweb)
