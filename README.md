@@ -98,6 +98,7 @@
 | [Paul J Karlik](https://codepen.io/pjkarlik) | `Animation`, `WebGL`, `GLSL`, `Canvas`, `Shader`, `Three.js` |
 | [Peter Barr](https://codepen.io/petebarr) | `Animation`, `SVG`, `GSAP`, `CSS`, `GreenSock` |
 | [Petr Tichy](https://codepen.io/ihatetomatoes) | `CSS`, `Animation`, `GreenSock`, `SVG`, `GSAP`, `Canvas` |
+| [Ricardo Oliva Alonso](https://codepen.io/) | `CSS`, `Animation` |
 | [Rachel Bull](https://codepen.io/rachel_web) | `CSS`, `Animation` |
 | [Rachel Nabors](https://codepen.io/rachelnabors) | `Animation`, `CSS`, `SVG`, `WAAPI` |
 | [Rachel Smith](https://codepen.io/rachsmith) | `Animation`, `Canvas`, `SVG`, `Particles`, `WebGL` |
