@@ -75,6 +75,7 @@ const codepenCoder = [
   { name: 'Lisi', codepen: 'lisilinhart', tags: [ 'Animation', 'SVG', 'GSAP', 'CSS'] },
   { name: 'Louis Hoebregts', codepen: 'Mamboleoo', tags: [ 'Canvas', 'Three.js', 'Particles', 'Shader', 'GSAP', 'Animation'] },
   { name: 'Lucas Bebber', codepen: 'lbebber', tags: [ 'CSS', 'Animation', 'SVG'] },
+  { name: 'Madalena Aza', codepen: 'Madalena-Design', tags: [ 'CSS', 'Animation'] },
   { name: 'Mandy Michael', codepen: 'mandymichael', tags: [ 'CSS', 'Effects', 'Animation'] },
   { name: 'Marco Dell´Anna', codepen: 'plasm', tags: [ 'Animation', 'Particles', 'GreenSock'] },
   { name: 'Mariusz Dabrowski', codepen: 'MarioD', tags: [ 'Animation', 'SVG', 'Canvas', 'Physics', 'P5.js', 'GSAP'] },
