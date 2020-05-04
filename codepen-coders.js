@@ -89,7 +89,7 @@ const codepenCoder = [
   { name: 'Paul J Karlik', codepen: 'pjkarlik', tags: [ 'Animation', 'WebGL', 'GLSL', 'Canvas', 'Shader', 'Three.js'] },
   { name: 'Peter Barr', codepen: 'petebarr', tags: [ 'Animation', 'SVG', 'GSAP', 'CSS', 'GreenSock'] },
   { name: 'Petr Tichy', codepen: 'ihatetomatoes', tags: [ 'CSS', 'Animation', 'GreenSock', 'SVG', 'GSAP', 'Canvas'] },
-  { name: 'Ricardo Oliva Alonso', codepen: '', tags: ['CSS', 'Animation'] },
+  { name: 'Ricardo Oliva Alonso', codepen: 'ricardoolivaalonso', tags: ['CSS', 'Animation'] },
   { name: 'Rachel Bull', codepen: 'rachel_web', tags: [ 'CSS', 'Animation'] },
   { name: 'Rachel Nabors', codepen: 'rachelnabors', tags: [ 'Animation', 'CSS', 'SVG', 'WAAPI'] },
   { name: 'Rachel Smith', codepen: 'rachsmith', tags: [ 'Animation', 'Canvas', 'SVG', 'Particles', 'WebGL'] },
