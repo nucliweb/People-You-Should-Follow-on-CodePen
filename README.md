@@ -53,7 +53,6 @@
 | [Grant Skinner](https://codepen.io/gskinner) | `Canvas`, `Javascript`, `Particles`, `3D`, `CreateJS` |
 | [GreenSock](https://codepen.io/GreenSock) | `GSAP`, `SVG`, `Animation`, `GreenSock`, `Javascript` |
 | [Greg Hovanesyan](https://codepen.io/gregh) | `Javascript`, `Web Audio`, `Animation`, `Game`, `CSS` |
-| [Gregor Adams](https://codepen.io/pixelass) | `Animation`, `Fractal`, `3D`, `CSS`, `Canvas`, `SVG` |
 | [Hernan Torrisi](https://codepen.io/airnan) | `SVG`, `Animation`, `Canvas`, `GSAP` |
 | [Himalaya Singh](https://codepen.io/himalayasingh) | `CSS`, `Animation` |
 | [Hornebom](https://codepen.io/Hornebom) | `Animation`, `CSS`, `SVG`, `Three.js` |
@@ -75,7 +74,7 @@
 | [K-T](https://codepen.io/K-T) | `Animation`, `Canvas`, `Particles`, `Javascript` |
 | [Karim Maaloul](https://codepen.io/Yakudoo) | `Animation`, `WebGL`, `Three.js`, `3D`, `Particles`, `GSAP` |
 | [Kenji Saito](https://codepen.io/kenjiSpecial) | `Animation`, `Canvas`, `WebGL`, `Three.js`, `Particle`, `Shader` |
-| [Kevin LEVRON](https://codepen.io/soju22/pens/tags) | `WebGL`, `Three.js`, `SVG` |
+| [Kevin LEVRON](https://codepen.io/soju22) | `WebGL`, `Three.js`, `SVG` |
 | [Kyle Brumm](https://codepen.io/kjbrum) | `Animation`, `CSS`, `Javascript` |
 | [LegoMushroom](https://codepen.io/sol0mka) | `Animation`, `Javascript`, `SVG`, `Canvas` |
 | [Liam Brummitt](https://codepen.io/liabru) | `Animation`, `Canvas`, `Physics` |
