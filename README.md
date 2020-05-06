@@ -82,6 +82,7 @@
 | [Lisi](https://codepen.io/lisilinhart) | `Animation`, `SVG`, `GSAP`, `CSS` |
 | [Louis Hoebregts](https://codepen.io/Mamboleoo) | `Canvas`, `Three.js`, `Particles`, `Shader`, `GSAP`, `Animation` |
 | [Lucas Bebber](https://codepen.io/lbebber) | `CSS`, `Animation`, `SVG` |
+| [Madalena Aza](https://codepen.io/Madalena-Design) | `CSS`, `Animation` |
 | [Mandy Michael](https://codepen.io/mandymichael) | `CSS`, `Effects`, `Animation` |
 | [Marco Dell´Anna](https://codepen.io/plasm) | `Animation`, `Particles`, `GreenSock` |
 | [Mariusz Dabrowski](https://codepen.io/MarioD) | `Animation`, `SVG`, `Canvas`, `Physics`, `P5.js`, `GSAP` |
