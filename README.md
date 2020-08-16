@@ -86,6 +86,7 @@
 | [Marco Dell´Anna](https://codepen.io/plasm) | `Animation`, `Particles`, `GreenSock` |
 | [Mariusz Dabrowski](https://codepen.io/MarioD) | `Animation`, `SVG`, `Canvas`, `Physics`, `P5.js`, `GSAP` |
 | [Massimo](https://codepen.io/_massimo) | `Canvas`, `CSS`, `SVG` |
+| [masuwa](https://codepen.io/ma_suwa) | `PostProcessing`, `Three.js`, `GLSL`, `Canvas`, `Shader` |
 | [Mattia Astorino](https://codepen.io/equinusocio) | `CSS`, `Animation`, `Creative Code` |
 | [Michael Gehrmann](https://codepen.io/g12n) | `CSS`, `SVG`, `Animation` |
 | [Mike Schultz](https://codepen.io/mike-schultz) | `Animation`, `SVG`, `CSS` |
