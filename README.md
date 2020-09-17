@@ -117,11 +117,12 @@
 | [Szenia Zadvornykh](https://codepen.io/zadvorsky) | `Canvas`, `Three.js`, `WebGL`, `Shader` |
 | [Takashi](https://codepen.io/tksiiii) | `P5.js`, `Canvas`, `Particles` |
 | [Tee Diang](https://codepen.io/cybercountess) | `CSS`, `Animaiton` |
-| [Tibix](https://codepen.io/Tibixx) | `Animation`, `Canvas`, `CSS`, `Particles` |
-| [Tim Holman](https://codepen.io/tholman) | `Canvas`, `Animation`, `Interactive`, `Generative`, `JS` |
 | [Thepheer](https://codepen.io/thepheer) | `Canvas`, `Particles`, `3D`, `WebGL`, `Shader` |
 | [Thibaut](https://codepen.io/Thibka) | `Canvas`, `Particles`, `Three.js`, `Animation` |
+| [Tibix](https://codepen.io/Tibixx) | `Animation`, `Canvas`, `CSS`, `Particles` |
+| [Tim Holman](https://codepen.io/tholman) | `Canvas`, `Animation`, `Interactive`, `Generative`, `JS` |
 | [Tiffany Rayside](https://codepen.io/tmrDevelops) | `Animation`, `Canvas`, `Particles`, `SVG`, `CSS` |
+| [Toshiya Marukubo](https://codepen.io/toshiya-marukubo) | `Animation`, `Canvas`, `Javascript`, `Particles` |
 | [Val Head](https://codepen.io/valhead) | `Animation`, `CSS`, `SVG`, `P5.js`, `GreenSock` |
 | [Varun Vachhar](https://codepen.io/winkerVSbecks) | `Animation`, `CSS`, `SVG`, `P5.js`, `GreenSock`, `GSAP` |
 | [Victor Vergara](https://codepen.io/vcomics) | `3D`, `Three.js`, `Shader`, `Animation` |

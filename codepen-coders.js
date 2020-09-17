@@ -543,6 +543,7 @@ const codepenCoder = [
     codepen: "tmrDevelops",
     tags: ["Animation", "Canvas", "Particles", "SVG", "CSS"],
   },
+  { name: "Toshiya Marukubo", codepen: "toshiya-marukubo", tags: ["Animation", "Canvas", "Javascript", "Particles"] },
   {
     name: "Val Head",
     codepen: "valhead",
