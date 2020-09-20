@@ -135,7 +135,7 @@
 
 ### Contributing
 
-1. Add someone to `directory.js`
+1. Add someone to `codepen-coders.js`
 2. Run `node generate.js` to generate README.md file
 3. Open a Pull Request 👍
 
