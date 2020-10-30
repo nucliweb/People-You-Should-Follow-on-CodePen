@@ -323,6 +323,11 @@ const codepenCoder = [
     tags: ["Animation", "CSS", "Javascript"],
   },
   {
+    name: "Lea Rosema",
+    codepen: "terabaud",
+    tags: ["WebGL", "GLSL", "SVG", "Canvas", "CSS"],
+  },
+  {
     name: "LegoMushroom",
     codepen: "sol0mka",
     tags: ["Animation", "Javascript", "SVG", "Canvas"],
@@ -543,7 +548,11 @@ const codepenCoder = [
     codepen: "tmrDevelops",
     tags: ["Animation", "Canvas", "Particles", "SVG", "CSS"],
   },
-  { name: "Toshiya Marukubo", codepen: "toshiya-marukubo", tags: ["Animation", "Canvas", "Javascript", "Particles"] },
+  {
+    name: "Toshiya Marukubo",
+    codepen: "toshiya-marukubo",
+    tags: ["Animation", "Canvas", "Javascript", "Particles"],
+  },
   {
     name: "Val Head",
     codepen: "valhead",

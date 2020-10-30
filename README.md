@@ -76,6 +76,7 @@
 | [Kenji Saito](https://codepen.io/kenjiSpecial) | `Animation`, `Canvas`, `WebGL`, `Three.js`, `Particle`, `Shader` |
 | [Kevin LEVRON](https://codepen.io/soju22) | `WebGL`, `Three.js`, `SVG` |
 | [Kyle Brumm](https://codepen.io/kjbrum) | `Animation`, `CSS`, `Javascript` |
+| [Lea Rosema](https://codepen.io/terabaud) | `WebGL`, `GLSL`, `SVG`, `Canvas`, `CSS` |
 | [LegoMushroom](https://codepen.io/sol0mka) | `Animation`, `Javascript`, `SVG`, `Canvas` |
 | [Liam Brummitt](https://codepen.io/liabru) | `Animation`, `Canvas`, `Physics` |
 | [Liam Egan](https://codepen.io/shubniggurath) | `GLSL`, `Shaders`, `Javascript`, `Generative`, `CreativeCode`, `Animation` |
@@ -117,10 +118,10 @@
 | [Szenia Zadvornykh](https://codepen.io/zadvorsky) | `Canvas`, `Three.js`, `WebGL`, `Shader` |
 | [Takashi](https://codepen.io/tksiiii) | `P5.js`, `Canvas`, `Particles` |
 | [Tee Diang](https://codepen.io/cybercountess) | `CSS`, `Animaiton` |
-| [Thepheer](https://codepen.io/thepheer) | `Canvas`, `Particles`, `3D`, `WebGL`, `Shader` |
-| [Thibaut](https://codepen.io/Thibka) | `Canvas`, `Particles`, `Three.js`, `Animation` |
 | [Tibix](https://codepen.io/Tibixx) | `Animation`, `Canvas`, `CSS`, `Particles` |
 | [Tim Holman](https://codepen.io/tholman) | `Canvas`, `Animation`, `Interactive`, `Generative`, `JS` |
+| [Thepheer](https://codepen.io/thepheer) | `Canvas`, `Particles`, `3D`, `WebGL`, `Shader` |
+| [Thibaut](https://codepen.io/Thibka) | `Canvas`, `Particles`, `Three.js`, `Animation` |
 | [Tiffany Rayside](https://codepen.io/tmrDevelops) | `Animation`, `Canvas`, `Particles`, `SVG`, `CSS` |
 | [Toshiya Marukubo](https://codepen.io/toshiya-marukubo) | `Animation`, `Canvas`, `Javascript`, `Particles` |
 | [Val Head](https://codepen.io/valhead) | `Animation`, `CSS`, `SVG`, `P5.js`, `GreenSock` |
