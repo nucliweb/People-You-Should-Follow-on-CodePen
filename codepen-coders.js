@@ -303,6 +303,11 @@ const codepenCoder = [
     tags: ["Animation", "Canvas", "Particles", "Javascript"],
   },
   {
+    name: "Kass",
+    codepen: "kassandrasanch",
+    tags: ["CSS", "GSAP"],
+  },
+  {
     name: "Karim Maaloul",
     codepen: "Yakudoo",
     tags: ["Animation", "WebGL", "Three.js", "3D", "Particles", "GSAP"],

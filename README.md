@@ -72,6 +72,7 @@
 | [Julian Garnier](https://codepen.io/juliangarnier) | `Animation`, `SVG`, `CSS`, `3D`, `Javascript` |
 | [Justin Windle](https://codepen.io/soulwire) | `Animation`, `Canvas`, `Particles`, `Physics`, `Javascript`, `WebGL` |
 | [K-T](https://codepen.io/K-T) | `Animation`, `Canvas`, `Particles`, `Javascript` |
+| [Kass](https://codepen.io/kassandrasanch) | `CSS`, `GSAP` |
 | [Karim Maaloul](https://codepen.io/Yakudoo) | `Animation`, `WebGL`, `Three.js`, `3D`, `Particles`, `GSAP` |
 | [Kenji Saito](https://codepen.io/kenjiSpecial) | `Animation`, `Canvas`, `WebGL`, `Three.js`, `Particle`, `Shader` |
 | [Kevin LEVRON](https://codepen.io/soju22) | `WebGL`, `Three.js`, `SVG` |
