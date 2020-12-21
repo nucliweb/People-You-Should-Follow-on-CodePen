@@ -112,6 +112,7 @@
 | [Sarah Drasner](https://codepen.io/sdras) | `Animation`, `SVG`, `Javascript`, `GreenSock`, `GSAP`, `Canvas` |
 | [Sarah Fossheim](https://codepen.io/fossheim) | `CSS`, `Animation` |
 | [Sebastian DeRossi](https://codepen.io/derossi_s) | `Create.JS`, `Easel.JS`, `Canvas`, `Animation`, `Javascript` |
+| [Stívali Serna](https://codepen.io/stivaliserna) | `3D`, `Three.js`, `Animation`, `CSS` |
 | [Scott R McGann](https://codepen.io/cantelope) | `Animation`, `Canvas`, `3D`, `Particles`, `Javascript` |
 | [Shaw](https://codepen.io/shshaw) | `Animation`, `CSS`, `SVG`, `Javascript`, `Canvas`, `Three.js` |
 | [Stefan Weck](https://codepen.io/stefanweck) | `Canvas`, `Animation`, `WebGL`, `Shader` |

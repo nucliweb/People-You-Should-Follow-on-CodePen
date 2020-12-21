@@ -498,6 +498,11 @@ const codepenCoder = [
     tags: ["Create.JS", "Easel.JS", "Canvas", "Animation", "Javascript"],
   },
   {
+    name: "Stívali Serna",
+    codepen: "stivaliserna",
+    tags: ["3D", "Three.js", "Animation", "CSS"],
+  },
+  {
     name: "Scott R McGann",
     codepen: "cantelope",
     tags: ["Animation", "Canvas", "3D", "Particles", "Javascript"],
