@@ -223,7 +223,7 @@ const codepenCoder = [
   {
     name: "ilithya",
     codepen: "ilithya",
-    tags: ["SVG", "Animation", "3D", "Javascript", "Shaders"],
+    tags: ["CSS", "Animation", "3D", "Javascript", "Shaders"],
   },
   {
     name: "Issey",
