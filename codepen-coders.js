@@ -221,6 +221,11 @@ const codepenCoder = [
     tags: ["Animation", "CSS", "SVG", "Three.js"],
   },
   {
+    name: "ilithya",
+    codepen: "ilithya",
+    tags: ["SVG", "Animation", "3D", "Javascript", "Shaders"],
+  },
+  {
     name: "Issey",
     codepen: "issey",
     tags: ["SVG", "Animation", "GreenSock", "GSAP"],

@@ -56,6 +56,7 @@
 | [Hernan Torrisi](https://codepen.io/airnan) | `SVG`, `Animation`, `Canvas`, `GSAP` |
 | [Himalaya Singh](https://codepen.io/himalayasingh) | `CSS`, `Animation` |
 | [Hornebom](https://codepen.io/Hornebom) | `Animation`, `CSS`, `SVG`, `Three.js` |
+| [ilithya](https://codepen.io/ilithya) | `SVG`, `Animation`, `3D`, `Javascript`, `Shaders` |
 | [Issey](https://codepen.io/issey) | `SVG`, `Animation`, `GreenSock`, `GSAP` |
 | [Jack Rugile](https://codepen.io/jackrugile) | `Canvas`, `Animation`, `CSS`, `Particles`, `Javascript` |
 | [Jackson A. Joseph](https://codepen.io/alexandrejosephdev) | `3D`, `Three.js`, `Particles`, `Animation`, `CreativeCode` |
