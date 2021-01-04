@@ -413,7 +413,7 @@ const codepenCoder = [
   {
     name: "Mustafa Enes",
     codepen: "pavlovsk",
-    tags: ["CSS", "Animation", "CSS"],
+    tags: ["CSS", "Animation", "Canvas"],
   },
   {
     name: "Nat Cooper",

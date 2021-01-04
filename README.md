@@ -93,7 +93,7 @@
 | [Mattia Astorino](https://codepen.io/equinusocio) | `CSS`, `Animation`, `Creative Code` |
 | [Michael Gehrmann](https://codepen.io/g12n) | `CSS`, `SVG`, `Animation` |
 | [Mike Schultz](https://codepen.io/mike-schultz) | `Animation`, `SVG`, `CSS` |
-| [Mustafa Enes](https://codepen.io/pavlovsk) | `CSS`, `Animation`, `CSS` |
+| [Mustafa Enes](https://codepen.io/pavlovsk) | `CSS`, `Animation`, `Canvas` |
 | [Nat Cooper](https://codepen.io/natacoops) | `SVG`, `Animation`, `CSS`, `GSAP` |
 | [Noel Delgado](https://codepen.io/noeldelgado) | `Animation`, `Canvas`, `CSS`, `SVG` |
 | [Not Important](https://codepen.io/clindsey) | `Animation`, `Canvas`, `Three.js`, `Javascript` |
@@ -139,7 +139,7 @@
 
 ### Contributing
 
-1. Add someone to `directory.js`
+1. Add someone to `codepen-coders.js`
 2. Run `node generate.js` to generate README.md file
 3. Open a Pull Request 👍
 
